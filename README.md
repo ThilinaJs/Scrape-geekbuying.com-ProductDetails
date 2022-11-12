@@ -1,2 +1,2 @@
-# Scrape-geekbuying.com-product_details
-Scrape geekbuying.com product details using python
+# Scrape-geekbuying.com-KitchenAppliancesDetails
+Scrape geekbuying.com Kitchen Appliances Details using python
