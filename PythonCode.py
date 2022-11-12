@@ -19,7 +19,9 @@ x.click()
 search = driver.find_element("xpath", '//div[@class="search_input"]/input[2]')
 search.click()
 
-search.send_keys('e bike')
+search.send_keys('Kitchen Appliance')
 
 search.send_keys(Keys.ENTER)
+
+product_name =driver.find_elements("xpath", '//li[@class="searchResultItem"]/div/div[2]/a')
 
